@@ -1,6 +1,9 @@
 # MSDS453
 Wine NLP Project
 
+Contributors:
+Alexander Wang, Ruchi Kumar, and Wicky Woo 
+
 Introduction:
 
   There are ever increasing options to choose from when it comes to wine. Finding a wine that meets your standards is difficult and may take a lifetime of wine tasting. To better serve the average wine drinker who does not have infinite amounts of time and money to try wine, the project focuses on clustering and classifying wines by type and flavor profile. 
