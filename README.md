@@ -8,5 +8,7 @@ Introduction:
   Natural Language Processing encompasses a large number of techniques for the computational processing of natural languages such as text or speech. This topic grew out of the field of linguistics as data and computing power increased the ability to automatically process this information. The two main phases of NLP are preprocessing and algorithm development. 
     By conducting several experiments, it will be observable how varying the vectorization technique, topic modeling, and other hyperparameters affect results. The process of experimentation will allow the evaluation of how NLP algorithms perform under certain conditions. Additionally, neural networks will be evaluated on their effectiveness and accuracy for predicting labels using text from the wine reviews.
 
+
 Description:
+
 In this Repo you will find the source code of the unsupervised learning methods used to analyze wne reviews and the supervised learning methods to classify the type of wine and the country that the wine is from.
